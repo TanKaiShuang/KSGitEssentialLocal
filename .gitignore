@@ -1,3 +1,9 @@
+# dependencies folder
+node_modules/
+dependencies/
+*.log
+# the above will be ignored by git because add / at the back
+
 *.gem
 *.rbc
 /.config
